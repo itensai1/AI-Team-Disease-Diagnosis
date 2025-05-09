@@ -1,0 +1,8 @@
+{
+    "PRE_TRAINED_MODEL_CLASSIFIER":"assets/efficientnet_model.pth",
+    "PRE_TRAINED_MODEL_SEGMENTOR":"assets/unet_80.pth",
+    "num_classes": 4,
+    "IMG_SIZE": 640,
+    "NUM_CLASSES": 5
+    
+}
