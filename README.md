@@ -132,11 +132,10 @@ The `config.json` file contains important settings:
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-[Add your license information here]
 
 ## Authors
-[Add author information here]
+* Shawky Gamal [Git Hub](https://github.com/shawky-gamal-22) [LinkedIn](https://www.linkedin.com/in/shawky-gamal-0712b220a/)
+* Kareem Ashraf [Git Hub](https://github.com/karim3421) [LinkedIn](https://www.linkedin.com/in/karim-ashraf-80a867229/)
 
 ## Acknowledgments
 - EfficientNet architecture
