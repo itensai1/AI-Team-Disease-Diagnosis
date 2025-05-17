@@ -3,6 +3,11 @@ name = "pypi"
 url = "https://pypi.org/simple"     
 verify_ssl = true
 
+[[source]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/torch_stable.html"
+verify_ssl = true
+
 [dev-packages]
 black = "==22.3.0"
 isort = "*"
@@ -11,8 +16,8 @@ gdown = "*"
 
 [packages]
 uvicorn = "*"
-pydantic = "*" 
-torch = "*"
+pydantic = "*"
+torch = {version = "*+cpu", index = "pytorch"}
 transformers = "*"
 fastapi = "*"
 torchvision = "*"
