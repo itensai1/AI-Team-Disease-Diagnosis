@@ -4,6 +4,6 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "pipenv run uvicorn disease_dignoses.api:app  && pipenv run streamlit run app_ui.py""
+    "startCommand": "pipenv run uvicorn disease_dignoses.api:app  && pipenv run streamlit run app_ui.py"
   }
 }
